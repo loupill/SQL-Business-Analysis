@@ -1,8 +1,9 @@
 # SQL Business Metrics Analysis
 
+## Goal
 This repository contains SQL queries aimed at analyzing various metrics across different business sectors. The project encompasses tasks such as calculating averages, understanding revenue distributions, evaluating email campaign performance, analyzing payment funnel stages, identifying upsell opportunities, conducting A/B testing for a customer support page, and more.
 
-##Objectives
+## Objectives
 Average Users per Customer ID: Determine the average number of users associated with each customer ID.
 
 
